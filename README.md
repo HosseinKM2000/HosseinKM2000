@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/45/8b/26/458b269e21dc1c6f24cd8ea4ba9c5464.jpg" height="400" width="1000" alt="linkedin logo"  />
+<img src="https://i.pinimg.com/564x/45/8b/26/458b269e21dc1c6f24cd8ea4ba9c5464.jpg" height="500" width="1000" alt="linkedin logo"  />
 </div>
 <h1 align="left">Hello, Greeting 👋</h1>
 <h1 align="left">I'm Hossein</h1>
